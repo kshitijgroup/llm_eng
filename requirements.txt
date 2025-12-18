@@ -11,6 +11,7 @@ torch
 transformers
 tqdm
 openai
+groq
 gradio
 langchain
 langchain-core
